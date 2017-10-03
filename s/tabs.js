@@ -20,7 +20,7 @@ var Tabs = {
 
   changeTab: function(hash) {
 
-    var anchor = $("[href=\\" + hash + "]");
+    var anchor = $('[href="' + hash + '"]');
     var div = $(hash);
 
     // activate correct anchor (visually)
@@ -50,7 +50,7 @@ var Tabs = {
 
 $( document ).ready(function(){
     Tabs.init();
-	
+
 	// Set hash based on location
 	$.get('https://ipapi.co/region_code/', function(state){
 		switch(state){
@@ -59,13 +59,13 @@ $( document ).ready(function(){
 			case 'RI':
 				Tabs.changeTab('#bos');
 				break;
-				
+
 			case 'NY':
 			case 'NJ':
 			case 'CT':
 				Tabs.changeTab('#nyc');
 				break;
-				
+
 			case 'CA':
 				$.get('https://ipapi.co/city/', function(city){
 					if(city === "San Jose" || city === "Mountain View" || city === "Santa Clara"){
@@ -75,10 +75,10 @@ $( document ).ready(function(){
 					}
 				});
 				break;
-				
+
 			default:
 				Tabs.changeTab('#onl');
 		}
 	});
-	
+
 });

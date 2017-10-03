@@ -2,9 +2,9 @@
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" lang="en-US" itemscope itemtype="http://schema.org/WebPage"  class="touch-styles">
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+
     <!-- This is Squarespace. --><!-- andy-tiffany -->
 <base href="">
 <meta charset="utf-8" />
@@ -27,7 +27,7 @@
 <meta name="twitter:image" content="http://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/581cb41f59cc6833a5e1ea95/1478276127771/icon-only.png?format=1000w"/>
 <meta name="twitter:url" content="https://www.firststepcoding.com/instructors/"/>
 <meta name="twitter:card" content="summary"/>
-<meta name="description" content="Learn to code and get into a top bootcamp without quitting your day job. 
+<meta name="description" content="Learn to code and get into a top bootcamp without quitting your day job.
 Our 4 week bootcamp prep course meets twice per week in the evening." />
 <script type="text/javascript" src="https://use.typekit.net/ik/Eu160DHP93LZt0yZyTzkBg94U9ICrUUxjjexQtlYyMtfel3ffFHN4UJLFRbh52jhWD9ajDJkjQIkZ2IaFQy8FAsq524RjQi8Fy7PMPG0jAoqpPuX-AZcjAooO1FUiABkZWF3jAF8OcFzdPUydcsoOWsTZcZyd1q0SaBujW48Sagyjh90jhNlOeZTS1FXSas8SeFzZe80ZkoRdhXCdeNRjAUGdaFXOYiaikoydcsoOWsTZcZyd1q0SaBujW48Sagyjh90jhNlOYiaikoc-W4DiYFXZWgRdhsTdcS0jhNlJ6U3ScNt-AuyOAozicIKIcBqdh48OAiyScBldhoqOWgkdkG4f5J7IMMjMkMfH6qJn3IbMg6IJMJ7fbKlMsMMeMj6MKG4fJCgIMMjgkMfH6qJ7bIbMg6JJMJ7fbK0MsMMegM6MKG4fJ3gIMMjIPMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZPNhvXB.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -49,142 +49,142 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
     <div id="sidecarNav">
       <div id="mobileNavWrapper" class="nav-wrapper" data-content-field="navigation-mobileNav">
   <nav id="mobileNavigation">
-    
-      
-        
 
-        
+
+
+
+
         <div class="folder">
           <div class="folder-toggle" data-href="/courses/">Courses</div>
           <div class="subnav">
-          
 
-            
+
+
             <div class="collection">
               <a href="/bootcamp-prep/">
                 Bootcamp Prep
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/intro-to-coding/">
                 Intro to Coding
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/sql/">
                 Intro to SQL
               </a>
             </div>
-            
-            
-          
+
+
+
           </div>
         </div>
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/partners/">
               Partners
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/corporate-training-case-study/">
               Team Training
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/faq/">
               FAQ
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/blog/">
               Blog
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/apply/">
               Apply
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
+
+
+
+
+
   </nav>
 </div>
 
@@ -198,149 +198,149 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
       <header id="header" class="show-on-scroll" data-offset-el=".index-section" data-offset-behavior="bottom" role="banner">
         <div class="header-inner">
           <div id="logoWrapper" class="wrapper" data-content-field="site-title">
-            
+
               <h1 id="logoImage"><a href="/"><img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/59a73bda59cc68b2a82eeead/1505794515526/?format=1500w" alt="First Step Coding" /></a></h1>
-            
+
           </div><!--
           --><div class="mobile-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><div class="mobile-nav-toggle fixed-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><!--
           --><div id="headerNav"><div id="mainNavWrapper" class="nav-wrapper" data-content-field="navigation-mainNav">
   <nav id="mainNavigation" data-content-field="navigation-mainNav">
-    
-      
-        
 
-        
+
+
+
+
         <div class="folder">
           <div class="folder-toggle" data-href="/courses/">Courses</div>
           <div class="subnav">
-          
 
-            
+
+
             <div class="collection">
               <a href="/bootcamp-prep/">
                 Bootcamp Prep
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/intro-to-coding/">
                 Intro to Coding
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/sql/">
                 Intro to SQL
               </a>
             </div>
-            
-            
-          
+
+
+
           </div>
         </div>
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/partners/">
               Partners
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/corporate-training-case-study/">
               Team Training
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/faq/">
               FAQ
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/blog/">
               Blog
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/apply/">
               Apply
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
+
+
+
+
+
   </nav>
 </div>
 <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
@@ -351,20 +351,20 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
         </div>
       </header>
 
-      
-        
-          
-          
-        
-      
 
 
-      
-      
-      
+
+
+
+
+
+
+
+
+
 
       <main id="page" role="main">
-        
+
         <!--
         --><!--
         --><div id="content" class="main-content" data-content-field="main-content" data-collection-id="59934f7503596e894fa9cb5e" >
@@ -378,7 +378,7 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
     <div class="slides-controls">
       <div class="slides" data-collection-full-url="/instructors/">
-        
+
 
           <!--SLIDE-->
 
@@ -386,34 +386,34 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
             <!--IMAGE-->
 
-            
-              
+
+
                 <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59934f84be42d66fd564dd00/1502826430764/al.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59934f84be42d66fd564dd00/1502826430764/al.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Al Tyus"  data-load="false" />
-              
+
 
               <!--SLIDE META-->
 
               <div class="slide-meta" data-slide-id="59934f84be42d66fd564dd00">
-                
+
                 <p class="title">Al Tyus</p>
-                
-                
+
+
                 <div class="description">
                   <p>Director of Mobile Engineering at MakeSpace and Flatiron School alumnus.</p>
                 </div>
-                
+
 
 
               </div>
-            
+
 
             <!--VIDEO-->
 
-            
+
 
           </div>
 
-        
+
 
           <!--SLIDE-->
 
@@ -421,34 +421,34 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
             <!--IMAGE-->
 
-            
-              
+
+
                 <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59934fc9d7bdce66699c2e63/1502826493138/aj.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59934fc9d7bdce66699c2e63/1502826493138/aj.png" data-image-dimensions="192x192" data-image-focal-point="0.5,0.5" alt="Andrew Jorgensen"  data-load="false" />
-              
+
 
               <!--SLIDE META-->
 
               <div class="slide-meta" data-slide-id="59934fc9d7bdce66699c2e63">
-                
+
                 <p class="title">Andrew Jorgensen</p>
-                
-                
+
+
                 <div class="description">
                   <p>Senior Software Engineer at Google and volunteer at Girls Who Code</p>
                 </div>
-                
+
 
 
               </div>
-            
+
 
             <!--VIDEO-->
 
-            
+
 
           </div>
 
-        
+
 
           <!--SLIDE-->
 
@@ -456,34 +456,34 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
             <!--IMAGE-->
 
-            
-              
+
+
                 <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59935003b8a79b8271d9a8c6/1502826519381/tate.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59935003b8a79b8271d9a8c6/1502826519381/tate.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Tate Thurston"  data-load="false" />
-              
+
 
               <!--SLIDE META-->
 
               <div class="slide-meta" data-slide-id="59935003b8a79b8271d9a8c6">
-                
+
                 <p class="title">Tate Thurston</p>
-                
-                
+
+
                 <div class="description">
                   <p>Software engineer at Transcriptic<a href="https://www.firststepcoding.com/intro-to-coding#">&nbsp;</a>and Hack Reactor alumnus.</p>
                 </div>
-                
+
 
 
               </div>
-            
+
 
             <!--VIDEO-->
 
-            
+
 
           </div>
 
-        
+
 
           <!--SLIDE-->
 
@@ -491,34 +491,34 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
             <!--IMAGE-->
 
-            
-              
+
+
                 <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59935022f5e231824bf8238e/1502829616566/kurt.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59935022f5e231824bf8238e/1502829616566/kurt.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Kurt Mansperger"  data-load="false" />
-              
+
 
               <!--SLIDE META-->
 
               <div class="slide-meta" data-slide-id="59935022f5e231824bf8238e">
-                
+
                 <p class="title">Kurt Mansperger</p>
-                
-                
+
+
                 <div class="description">
                   <p>Former Consultant and Solution Architect at Deloitte</p>
                 </div>
-                
+
 
 
               </div>
-            
+
 
             <!--VIDEO-->
 
-            
+
 
           </div>
 
-        
+
 
           <!--SLIDE-->
 
@@ -526,34 +526,34 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
             <!--IMAGE-->
 
-            
-              
+
+
                 <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/5993505aebbd1a3535d17b8c/1502826610486/shlomy.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/5993505aebbd1a3535d17b8c/1502826610486/shlomy.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Shlomy Gantz"  data-load="false" />
-              
+
 
               <!--SLIDE META-->
 
               <div class="slide-meta" data-slide-id="5993505aebbd1a3535d17b8c">
-                
+
                 <p class="title">Shlomy Gantz</p>
-                
-                
+
+
                 <div class="description">
                   <p>Veteran developer with over 20 years of experience.</p>
                 </div>
-                
+
 
 
               </div>
-            
+
 
             <!--VIDEO-->
 
-            
+
 
           </div>
 
-        
+
 
           <!--SLIDE-->
 
@@ -561,34 +561,34 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
             <!--IMAGE-->
 
-            
-              
+
+
                 <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/5993507eebbd1a3535d17ec2/1502826631970/sarmad.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/5993507eebbd1a3535d17ec2/1502826631970/sarmad.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Sarmad Bokhari"  data-load="false" />
-              
+
 
               <!--SLIDE META-->
 
               <div class="slide-meta" data-slide-id="5993507eebbd1a3535d17ec2">
-                
+
                 <p class="title">Sarmad Bokhari</p>
-                
-                
+
+
                 <div class="description">
                   <p>Software engineer at High Tail and Maker Square alumnus.</p>
                 </div>
-                
+
 
 
               </div>
-            
+
 
             <!--VIDEO-->
 
-            
+
 
           </div>
 
-        
+
       </div>
 
       <!--PREVIOUS/NEXT CONTROLS-->
@@ -597,55 +597,55 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
       <!--CIRCLES-->
       <div class="circles gallery-nav">
-        
+
           <span class="circle"></span>
-        
+
           <span class="circle"></span>
-        
+
           <span class="circle"></span>
-        
+
           <span class="circle"></span>
-        
+
           <span class="circle"></span>
-        
+
           <span class="circle"></span>
-        
+
       </div>
     </div>
   </div>
 
   <!--DOTS-->
   <div class="dots gallery-nav">
-    
+
       <span class="dot"></span>
-    
+
       <span class="dot"></span>
-    
+
       <span class="dot"></span>
-    
+
       <span class="dot"></span>
-    
+
       <span class="dot"></span>
-    
+
       <span class="dot"></span>
-    
+
   </div>
 
   <!--NUMBERS-->
   <div class="numbers gallery-nav">
-    
+
       <span class="number">1</span>
-    
+
       <span class="number">2</span>
-    
+
       <span class="number">3</span>
-    
+
       <span class="number">4</span>
-    
+
       <span class="number">5</span>
-    
+
       <span class="number">6</span>
-    
+
   </div>
 
   <!--SIMPLE-->
@@ -658,37 +658,37 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
   <!--THUMBNAILS-->
 
   <div class="thumbnail-wrapper gallery-nav">
-    
+
       <div class="thumbnail">
         <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59934f84be42d66fd564dd00/1502826430764/al.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59934f84be42d66fd564dd00/1502826430764/al.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Al Tyus"  data-load="false" />
       </div>
-    
+
       <div class="thumbnail">
         <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59934fc9d7bdce66699c2e63/1502826493138/aj.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59934fc9d7bdce66699c2e63/1502826493138/aj.png" data-image-dimensions="192x192" data-image-focal-point="0.5,0.5" alt="Andrew Jorgensen"  data-load="false" />
       </div>
-    
+
       <div class="thumbnail">
         <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59935003b8a79b8271d9a8c6/1502826519381/tate.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59935003b8a79b8271d9a8c6/1502826519381/tate.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Tate Thurston"  data-load="false" />
       </div>
-    
+
       <div class="thumbnail">
         <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59935022f5e231824bf8238e/1502829616566/kurt.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/59935022f5e231824bf8238e/1502829616566/kurt.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Kurt Mansperger"  data-load="false" />
       </div>
-    
+
       <div class="thumbnail">
         <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/5993505aebbd1a3535d17b8c/1502826610486/shlomy.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/5993505aebbd1a3535d17b8c/1502826610486/shlomy.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Shlomy Gantz"  data-load="false" />
       </div>
-    
+
       <div class="thumbnail">
         <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/5993507eebbd1a3535d17ec2/1502826631970/sarmad.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59934f7503596e894fa9cb5e/5993507eebbd1a3535d17ec2/1502826631970/sarmad.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Sarmad Bokhari"  data-load="false" />
       </div>
-    
+
   </div>
 
 </div>
         </div><!--
         -->
-        
+
       </main>
 
       <div id="preFooter">
@@ -736,25 +736,25 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
           <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Back to Top</a></div></nav></div>
           <div id="secondaryNavWrapper" class="nav-wrapper" data-content-field="navigation-secondaryNav">
   <nav id="secondaryNavigation" data-content-field="navigation-secondaryNav">
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
           <div class="collection" id="id57db46a7725e25ee853ad6b9">
             <a href="/privacy-policy/">
               <span>Privacy Policy</span>
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
+
+
+
+
+
   </nav>
 </div>
 
@@ -807,14 +807,14 @@ src="https://www.facebook.com/tr?id=1007718212639770&ev=PageView&noscript=1"
 <!-- End Google Analytics -->
 <!-- Common Google Analytics Event Tracking -->
 <script>
-document.addEventListener("DOMContentLoaded", function(event) { 
+document.addEventListener("DOMContentLoaded", function(event) {
   try {
     document.querySelector("input[value='Book Your Call']").addEventListener('click', function(evt){
      ga('send', 'event', 'lead', 'application');
   });
   } catch(err){ }
-  
-  try {  
+
+  try {
     document.querySelector("input[value='Get Syllabus']").addEventListener('click', function(evt){
       // GA track
       ga('send', 'event', 'lead', 'syllabus-downloaded');
@@ -827,7 +827,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 <!-- End Include JQuery -->
 <!-- Notification Bar Customization -->
-<script type="text/javascript" charset="utf-8" src="/s/notification_bar.js"></script>
+<script type="text/javascript" charset="utf-8" src="../../../../s/notification_bar.js"></script>
 <!-- End Notification Bar Customization -->
 
 

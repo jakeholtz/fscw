@@ -2,9 +2,9 @@
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:article="http://ogp.me/ns/article" lang="en-US" itemscope itemtype="http://schema.org/Article"  class="touch-styles">
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+
     <!-- This is Squarespace. --><!-- andy-tiffany -->
 <base href="">
 <meta charset="utf-8" />
@@ -17,22 +17,22 @@
 <meta property="og:longitude" content="-74.00076130000002"/>
 <meta property="og:url" content="https://www.firststepcoding.com/blog/prep-for-your-coding-interview"/>
 <meta property="og:type" content="article"/>
-<meta property="og:description" content="PREP is a mnemonic for methodically solving coding problems. It expands 
+<meta property="og:description" content="PREP is a mnemonic for methodically solving coding problems. It expands
 to: Parameters, Return, Example, Pseudocode. 
 
-The mnemonic is new, but the underlying technique is battle tested. This is 
-essentially a beginner-friendly version of test-driven development that 
+The mnemonic is new, but the underlying technique is battle tested. This is
+essentially a beginner-friendly version of test-driven development that
 lends itself well to codi"/>
 <meta property="og:image" content="http://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/585ace722e69cf2bd553960b/1482346104393/?format=1000w"/>
 <meta property="og:image:width" content="833"/>
 <meta property="og:image:height" content="125"/>
 <meta itemprop="name" content="Before You Code, Remember to PREP for Your Bootcamp Coding Interview"/>
 <meta itemprop="url" content="https://www.firststepcoding.com/blog/prep-for-your-coding-interview"/>
-<meta itemprop="description" content="PREP is a mnemonic for methodically solving coding problems. It expands 
+<meta itemprop="description" content="PREP is a mnemonic for methodically solving coding problems. It expands
 to: Parameters, Return, Example, Pseudocode. 
 
-The mnemonic is new, but the underlying technique is battle tested. This is 
-essentially a beginner-friendly version of test-driven development that 
+The mnemonic is new, but the underlying technique is battle tested. This is
+essentially a beginner-friendly version of test-driven development that
 lends itself well to codi"/>
 <meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/585ace722e69cf2bd553960b/1482346104393/?format=1000w"/>
 <link rel="image_src" href="http://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/585ace722e69cf2bd553960b/1482346104393/?format=1000w" />
@@ -41,11 +41,11 @@ lends itself well to codi"/>
 <meta name="twitter:image" content="http://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/585ace722e69cf2bd553960b/1482346104393/?format=1000w"/>
 <meta name="twitter:url" content="https://www.firststepcoding.com/blog/prep-for-your-coding-interview"/>
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="PREP is a mnemonic for methodically solving coding problems. It expands 
+<meta name="twitter:description" content="PREP is a mnemonic for methodically solving coding problems. It expands
 to: Parameters, Return, Example, Pseudocode. 
 
-The mnemonic is new, but the underlying technique is battle tested. This is 
-essentially a beginner-friendly version of test-driven development that 
+The mnemonic is new, but the underlying technique is battle tested. This is
+essentially a beginner-friendly version of test-driven development that
 lends itself well to codi"/>
 <meta name="description" content="" />
 <script type="text/javascript" src="https://use.typekit.net/ik/Eu160DHP93LZt0yZyTzkBg94U9ICrUUxjjexQtlYyMtfel3ffFHN4UJLFRbh52jhWD9ajDJkjQIkZ2IaFQy8FAsq524RjQi8Fy7PMPG0jAoqpPuX-AZcjAooO1FUiABkZWF3jAF8OcFzdPUydcsoOWsTZcZyd1q0SaBujW48Sagyjh90jhNlOeZTS1FXSas8SeFzZe80ZkoRdhXCdeNRjAUGdaFXOYiaikoydcsoOWsTZcZyd1q0SaBujW48Sagyjh90jhNlOYiaikoc-W4DiYFXZWgRdhsTdcS0jhNlJ6U3ScNt-AuyOAozicIKIcBqdh48OAiyScBldhoqOWgkdkG4f5J7IMMjMkMfH6qJn3IbMg6IJMJ7fbKlMsMMeMj6MKG4fJCgIMMjgkMfH6qJ7bIbMg6JJMJ7fbK0MsMMegM6MKG4fJ3gIMMjIPMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZPNhvXB.js"></script>
@@ -69,142 +69,142 @@ lends itself well to codi"/>
     <div id="sidecarNav">
       <div id="mobileNavWrapper" class="nav-wrapper" data-content-field="navigation-mobileNav">
   <nav id="mobileNavigation">
-    
-      
-        
 
-        
+
+
+
+
         <div class="folder">
           <div class="folder-toggle" data-href="/courses/">Courses</div>
           <div class="subnav">
-          
 
-            
+
+
             <div class="collection">
               <a href="/bootcamp-prep/">
                 Bootcamp Prep
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/intro-to-coding/">
                 Intro to Coding
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/sql/">
                 Intro to SQL
               </a>
             </div>
-            
-            
-          
+
+
+
           </div>
         </div>
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/partners/">
               Partners
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/corporate-training-case-study/">
               Team Training
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/faq/">
               FAQ
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection active">
             <a href="/blog/">
               Blog
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/apply/">
               Apply
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
+
+
+
+
+
   </nav>
 </div>
 
@@ -218,149 +218,149 @@ lends itself well to codi"/>
       <header id="header" class="show-on-scroll" data-offset-el=".index-section" data-offset-behavior="bottom" role="banner">
         <div class="header-inner">
           <div id="logoWrapper" class="wrapper" data-content-field="site-title">
-            
+
               <h1 id="logoImage"><a href="/"><img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/59a73bda59cc68b2a82eeead/1505794515526/?format=1500w" alt="First Step Coding" /></a></h1>
-            
+
           </div><!--
           --><div class="mobile-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><div class="mobile-nav-toggle fixed-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><!--
           --><div id="headerNav"><div id="mainNavWrapper" class="nav-wrapper" data-content-field="navigation-mainNav">
   <nav id="mainNavigation" data-content-field="navigation-mainNav">
-    
-      
-        
 
-        
+
+
+
+
         <div class="folder">
           <div class="folder-toggle" data-href="/courses/">Courses</div>
           <div class="subnav">
-          
 
-            
+
+
             <div class="collection">
               <a href="/bootcamp-prep/">
                 Bootcamp Prep
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/intro-to-coding/">
                 Intro to Coding
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/sql/">
                 Intro to SQL
               </a>
             </div>
-            
-            
-          
+
+
+
           </div>
         </div>
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/partners/">
               Partners
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/corporate-training-case-study/">
               Team Training
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/faq/">
               FAQ
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection active">
             <a href="/blog/">
               Blog
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/apply/">
               Apply
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
+
+
+
+
+
   </nav>
 </div>
 <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
@@ -371,87 +371,87 @@ lends itself well to codi"/>
         </div>
       </header>
 
-      
-        
-          
-            
-              
-            
-          
-        
-      
 
 
-      
-      
-      
+
+
+
+
+
+
+
+
+
+
+
+
 
       <main id="page" role="main">
-        
+
         <!--
         --><!--
         --><div id="content" class="main-content" data-content-field="main-content" data-collection-id="5848304bbe65942448e3c212" data-edit-main-image="Banner">
          <div class="blog-item">
 
-  
+
   <article class="entry h-entry hentry author-andy-tiffany post-type-text clear" id="article-58519170e6f2e14d4e5980b7" data-item-id="58519170e6f2e14d4e5980b7">
 
     <header class="entry-header">
       <div class="meta-above-title">
-        
+
         <div class="entry-byline">
           <span class="entry-author"><a href="/blog/?author=57c22a10cd0f6844bcc8fe58" class="p-author author entry-byline-link" rel="author">Andy Tiffany</a></span>
         </div>
-        
+
         <div class="entry-dateline">
           <time class="dt-published published entry-date" datetime="2016-12-21" pubdate><a href="/blog/prep-for-your-coding-interview" class="entry-dateline-link">December 21, 2016</a></time>
           <time class="dt-updated updated" datetime="2016-12-21"></time>
         </div>
-        
+
       </div>
       <h1 data-content-field="title" class="entry-title p-name">
-      
+
         <a href="/blog/prep-for-your-coding-interview" class="u-url" rel="bookmark">Before You Code, Remember to PREP for Your Bootcamp Coding Interview</a>
-      
+
       </h1>
       <div class="meta-below-title no-categories">
-        
+
         <div class="entry-byline">
           <span class="entry-author"><a href="/blog/?author=57c22a10cd0f6844bcc8fe58" class="p-author author entry-byline-link" rel="author">Andy Tiffany</a></span>
         </div>
-        
+
         <div class="entry-dateline">
           <time class="dt-published published entry-date" datetime="2016-12-21" pubdate><a href="/blog/prep-for-your-coding-interview" class="entry-dateline-link">December 21, 2016</a></time>
           <time class="dt-updated updated" datetime="2016-12-21"></time>
         </div>
-        
+
       </div>
     </header>
 
     <div class="entry-content e-content">
-      
+
         <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1481746002655" id="item-58519170e6f2e14d4e5980b7"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1482345609176_22442"><div class="sqs-block-content">
 
-  
 
-  	
+
+
       <div class="image-block-outer-wrapper layout-caption-hidden design-layout-inline">
-      
+
         <div class="intrinsic" style="max-width:833.0px;">
-          
+
             <div style="padding-bottom:15.006002426147461%;" class="image-block-wrapper   has-aspect-ratio" data-description="" >
               <noscript><img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/585ace722e69cf2bd553960b/1482346104393/"  /></noscript><img class="thumb-image" data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/585ace722e69cf2bd553960b/1482346104393/" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/585ace722e69cf2bd553960b/1482346104393/" data-image-dimensions="833x125" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="585ace722e69cf2bd553960b" data-type="image" />
             </div>
-          
 
-          
+
+
 
         </div>
-      
-      </div>
-    
 
-  
+      </div>
+
+
+
 
 
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-93d6426f4e892fdf9993"><div class="sqs-block-content"><p><!--[if gte mso 9]><xml>
@@ -779,11 +779,11 @@ table.MsoNormalTable
 
 }</pre></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1481740623081_29915"><div class="sqs-block-content"><h2><strong>R</strong>eturn (Output)</h2><p>What does this function <em>return</em>? Is it a number? A boolean? A string?</p><p>Remember: the value a function returns is not the same as what it might display in a print/log statement. Once again, we can look at the problem statement for clarification. “Returns the longest word"&nbsp;tells us that we're returning a <em>word, </em>and we know that words are strings. Let’s make this crystal clear by creating a variable to represent this return value and rigging up our function to return it. Even though we aren't returning the correct answer yet,&nbsp;we are set up to return the correct type. We have created a placeholder that will make the next steps easier.</p></div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1481740623081_46923"><div class="sqs-block-content"><pre class="source-code"><span class="cm-keyword">function</span> <span class="cm-variable">longestWord</span>(<span class="cm-def">sentence</span>){
   <span class="cm-keyword">var</span> <span class="cm-def">word</span> <span class="cm-operator">=</span> <span class="cm-string">"placeholder"</span>;
-  
+
   <span class="cm-keyword">return</span> <span class="cm-variable-2">word</span>;
 }</pre></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1481740623081_46990"><div class="sqs-block-content"><h2><strong>E</strong>xample (Test)</h2><p>Even for expert developers, static code is harder to understand than running code.&nbsp;We want to make our code runnable and "alive"&nbsp;as soon as possible. We can breathe life into our function with an example test invocation.</p><p>We know that if our function accepts the sentence, "I saw a hippopotamus,"&nbsp;it <em>should</em> return the string “hippopotamus” once it’s properly working. But for now, we just want to see our placeholder value from the last step to confirm our code is runnable and setup correctly.</p></div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1481740623081_50631"><div class="sqs-block-content"><pre class="source-code"><span class="cm-keyword">function</span> <span class="cm-variable">longestWord</span>(<span class="cm-def">sentence</span>){
   <span class="cm-keyword">var</span> <span class="cm-def">word</span> <span class="cm-operator">=</span> <span class="cm-string">"placeholder"</span>;
-  
+
   <span class="cm-keyword">return</span> <span class="cm-variable-2">word</span>;
 }
 
@@ -792,15 +792,15 @@ table.MsoNormalTable
 <span class="cm-variable">console</span>.<span class="cm-property">log</span>(<span class="cm-variable">longestWord</span>(<span class="cm-string">"I saw a hippopotamus"</span>));</pre></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1481740623081_50698"><div class="sqs-block-content"><h2><strong>P</strong>seudocode</h2><p>While it’s tempting to just dive in and start coding now, it would be too easy to get caught up in a detail that could distract from the bigger picture. We need to devise a strategy first, and <em>pseudocoding</em> is just the tactic for this. Pseudocode is simply a series of precise statements written in spoken language comments to describe we need to do.</p></div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1481740623081_60472"><div class="sqs-block-content"><pre class="source-code"><span class="cm-keyword">function</span> <span class="cm-variable">longestWord</span>(<span class="cm-def">sentence</span>){
   <span class="cm-comment">// Use a variable to keep track of the longest word so far.</span>
   <span class="cm-keyword">var</span> <span class="cm-def">word</span> <span class="cm-operator">=</span> <span class="cm-string">"placeholder"</span>;
-  
+
   <span class="cm-comment">// Convert the sentence into an array of words, so we can easily iterate</span>
   <span class="cm-comment">// over each word.</span>
-  
+
   <span class="cm-comment">// Loop through each of the words.</span>
-  
+
   <span class="cm-comment">// If the length of the current word is greater than the longest so far,</span>
   <span class="cm-comment">// update our variable tracking the longest word.</span>
-  
+
   <span class="cm-comment">// After we've looked at every word, return the tracking variable.</span>
   <span class="cm-keyword">return</span> <span class="cm-variable-2">word</span>;
 }
@@ -810,12 +810,12 @@ table.MsoNormalTable
 <span class="cm-variable">console</span>.<span class="cm-property">log</span>(<span class="cm-variable">longestWord</span>(<span class="cm-string">"I saw a hippopotamus"</span>));</pre></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1481740623081_60539"><div class="sqs-block-content"><h2>We Have finished PREP. Now We Can Code!</h2><p>The four steps in PREP helped us clearly frame the problem and think about how to solve it. In truth, accurate framing is half the battle. Most interviewers will already be impressed to see our methodical approach. At this point, our goal is simply to write code that will make our examples/tests pass. We'll do this by encoding each of our pseudocode steps.</p><p>We know we've got a working solution when we can run our code and see the correct output.&nbsp;</p></div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1481740623081_80086"><div class="sqs-block-content"><pre class="source-code"><span class="cm-keyword">function</span> <span class="cm-variable">longestWord</span>(<span class="cm-def">sentence</span>){
   <span class="cm-comment">// Use a variable to keep track of the longest word so far.</span>
   <span class="cm-keyword">var</span> <span class="cm-def">longestWordSoFar</span> <span class="cm-operator">=</span> <span class="cm-string">""</span>;
-  
+
   <span class="cm-comment">// Convert the sentence into an array of words, so we can easily iterate</span>
   <span class="cm-comment">// over each word.</span>
   <span class="cm-keyword">var</span> <span class="cm-def">wordArray</span> <span class="cm-operator">=</span> <span class="cm-variable-2">sentence</span>.<span class="cm-property">split</span>(<span class="cm-string">" "</span>);
   <span class="cm-keyword">var</span> <span class="cm-def">currentWord</span>;
- 
+
   <span class="cm-comment">// Loop through each of the words.</span>
   <span class="cm-keyword">for</span> (<span class="cm-keyword">var</span> <span class="cm-def">i</span> <span class="cm-operator">=</span> <span class="cm-number">0</span>; <span class="cm-variable-2">i</span> <span class="cm-operator">&lt;</span> <span class="cm-variable-2">wordArray</span>.<span class="cm-property">length</span>; <span class="cm-variable-2">i</span><span class="cm-operator">++</span>){
     <span class="cm-variable-2">currentWord</span> <span class="cm-operator">=</span> <span class="cm-variable-2">wordArray</span>[<span class="cm-variable-2">i</span>];
@@ -825,21 +825,21 @@ table.MsoNormalTable
       <span class="cm-variable-2">longestWordSoFar</span> <span class="cm-operator">=</span> <span class="cm-variable-2">currentWord</span>;
     }
   }
-  
+
   <span class="cm-comment">// after we've looked at every word, return the tracking variable</span>
   <span class="cm-keyword">return</span> <span class="cm-variable-2">longestWordSoFar</span>;
 }
 
 <span class="cm-comment">// This should log "hippopotamus" once our function is working correctly.</span>
 <span class="cm-variable">console</span>.<span class="cm-property">log</span>(<span class="cm-variable">longestWord</span>(<span class="cm-string">"I saw a hippopotamus"</span>));</pre></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1481740623081_103733"><div class="sqs-block-content"><p>We're through the hardest part now, and we can breathe a sigh of relief that we've at least gotten to a working answer!&nbsp;At this point, there are just two more questions to think about:</p><ul><li>Are there any edge cases that would break the code? For example, do we need to take into account sentences that have a period at the end? We'll write more test cases for these edge cases, and fix the code if necessary.</li><li>Can we make the code cleaner or more efficient now? We should discuss ideas with the interviewer so they know our thoughts before risking breaking the solution.</li></ul></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1481740623081_112619"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1481740623081_79044"><div class="sqs-block-content"><p>That's it! The process might seem overly mechanical at first, but trust me, it will become second nature - much like the steps in learning to drive. Even after programming for more than 12 years, this is still roughly the sequence I follow when I’m problem solving. I'll likely use formal testing frameworks instead of log statements, but the steps are the same.</p><p>Now you try it! Here are a few beginner-level problems you can practice with, in ascending order of difficulty:</p><ol><li>Suppose you have an array of string like [ “adios”, “bye”, “ciao” ]. Your task is to write a function called total_characters that accepts such an array as a parameter and returns the summed number of characters across all the strings in the array.<br /> </li><li>Write a function to flip a coin n times that returns the numbers of times a “heads” was flipped.<br /> </li><li>(From CoderByte)&nbsp;Using the JavaScript language, have the function alphabetSoup(str) take the str string parameter being passed and return the string with the letters in alphabetical order (ie. hello becomes ehllo). Assume numbers and punctuation symbols will not be included in the string.</li></ol><p>I’d love to see your solutions and provide feedback. Submit your answers in the comments and / or directly to answers@firststepcoding.com</p><p>PREP has already helped several First Step Coding learners ace their interviews, and I hope it helps you too. Happy coding!</p><p><!--EndFragment--></p></div></div></div></div></div>
-      
+
     </div>
 
     <footer class="entry-footer clear">
-      
-      
+
+
       <div class="entry-actions">
-        
+
   <span class="sqs-simple-like" data-item-id="58519170e6f2e14d4e5980b7" data-like-count="3">
     <span class="like-icon"></span>
     <span class="like-count"></span>
@@ -849,30 +849,30 @@ table.MsoNormalTable
       </div>
     </footer>
 
-    
+
 
   </article>
 
   <div id="comments-58519170e6f2e14d4e5980b7" class="p-comment">
-    
+
   </div>
 
-  
 
-  
+
+
   <nav class="pagination clear">
     <div class="newer"><span class="prev-label">Newer Post</span><a href="/blog/2017/7/25/alumni-qa-jake-holtz-on-his-journey-from-first-step-coding-to-hack-reactor" rel="prev"><span>Alumni Q&A: Jake Holtz On His Journey From First Step Coding to Hack Reactor</span></a></div><!-- comment the linebreak between these two elements because science
   --><div class="older"><span class="next-label">Older Post</span><a href="/blog/bootcamp-prep" rel="next"><span>Bootcamp Prep: Courses to Get into a Top Coding Bootcamp</span></a></div>
   </nav>
-  
+
 
 </div>
         </div><!--
         --><aside id="rightSidebar" role="complementary">
           <div class="sqs-layout sqs-grid-12 columns-12 open-block-field empty" data-layout-label="Blog Sidebar Content" data-type="block-field" id="blogBlocks-5848304bbe65942448e3c212"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
         </aside>
-        
-        
+
+
       </main>
 
       <div id="preFooter">
@@ -920,25 +920,25 @@ table.MsoNormalTable
           <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Back to Top</a></div></nav></div>
           <div id="secondaryNavWrapper" class="nav-wrapper" data-content-field="navigation-secondaryNav">
   <nav id="secondaryNavigation" data-content-field="navigation-secondaryNav">
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
           <div class="collection" id="id57db46a7725e25ee853ad6b9">
             <a href="/privacy-policy/">
               <span>Privacy Policy</span>
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
+
+
+
+
+
   </nav>
 </div>
 
@@ -991,14 +991,14 @@ src="https://www.facebook.com/tr?id=1007718212639770&ev=PageView&noscript=1"
 <!-- End Google Analytics -->
 <!-- Common Google Analytics Event Tracking -->
 <script>
-document.addEventListener("DOMContentLoaded", function(event) { 
+document.addEventListener("DOMContentLoaded", function(event) {
   try {
     document.querySelector("input[value='Book Your Call']").addEventListener('click', function(evt){
      ga('send', 'event', 'lead', 'application');
   });
   } catch(err){ }
-  
-  try {  
+
+  try {
     document.querySelector("input[value='Get Syllabus']").addEventListener('click', function(evt){
       // GA track
       ga('send', 'event', 'lead', 'syllabus-downloaded');
@@ -1011,7 +1011,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 <!-- End Include JQuery -->
 <!-- Notification Bar Customization -->
-<script type="text/javascript" charset="utf-8" src="/s/notification_bar.js"></script>
+<script type="text/javascript" charset="utf-8" src="../s/notification_bar.js"></script>
 <!-- End Notification Bar Customization -->
 
 

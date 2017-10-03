@@ -2,9 +2,9 @@
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" lang="en-US" itemscope itemtype="http://schema.org/WebPage"  class="touch-styles">
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+
     <!-- This is Squarespace. --><!-- andy-tiffany -->
 <base href="">
 <meta charset="utf-8" />
@@ -27,7 +27,7 @@
 <meta name="twitter:image" content="http://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/581cb41f59cc6833a5e1ea95/1478276127771/icon-only.png?format=1000w"/>
 <meta name="twitter:url" content="https://www.firststepcoding.com/alumni/"/>
 <meta name="twitter:card" content="summary"/>
-<meta name="description" content="Learn to code and get into a top bootcamp without quitting your day job. 
+<meta name="description" content="Learn to code and get into a top bootcamp without quitting your day job.
 Our 4 week bootcamp prep course meets twice per week in the evening." />
 <script type="text/javascript" src="https://use.typekit.net/ik/Eu160DHP93LZt0yZyTzkBg94U9ICrUUxjjexQtlYyMtfel3ffFHN4UJLFRbh52jhWD9ajDJkjQIkZ2IaFQy8FAsq524RjQi8Fy7PMPG0jAoqpPuX-AZcjAooO1FUiABkZWF3jAF8OcFzdPUydcsoOWsTZcZyd1q0SaBujW48Sagyjh90jhNlOeZTS1FXSas8SeFzZe80ZkoRdhXCdeNRjAUGdaFXOYiaikoydcsoOWsTZcZyd1q0SaBujW48Sagyjh90jhNlOYiaikoc-W4DiYFXZWgRdhsTdcS0jhNlJ6U3ScNt-AuyOAozicIKIcBqdh48OAiyScBldhoqOWgkdkG4f5J7IMMjMkMfH6qJn3IbMg6IJMJ7fbKlMsMMeMj6MKG4fJCgIMMjgkMfH6qJ7bIbMg6JJMJ7fbK0MsMMegM6MKG4fJ3gIMMjIPMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZPNhvXB.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -49,142 +49,142 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
     <div id="sidecarNav">
       <div id="mobileNavWrapper" class="nav-wrapper" data-content-field="navigation-mobileNav">
   <nav id="mobileNavigation">
-    
-      
-        
 
-        
+
+
+
+
         <div class="folder">
           <div class="folder-toggle" data-href="/courses/">Courses</div>
           <div class="subnav">
-          
 
-            
+
+
             <div class="collection">
               <a href="/bootcamp-prep/">
                 Bootcamp Prep
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/intro-to-coding/">
                 Intro to Coding
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/sql/">
                 Intro to SQL
               </a>
             </div>
-            
-            
-          
+
+
+
           </div>
         </div>
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/partners/">
               Partners
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/corporate-training-case-study/">
               Team Training
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/faq/">
               FAQ
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/blog/">
               Blog
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/apply/">
               Apply
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
+
+
+
+
+
   </nav>
 </div>
 
@@ -198,149 +198,149 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
       <header id="header" class="show-on-scroll" data-offset-el=".index-section" data-offset-behavior="bottom" role="banner">
         <div class="header-inner">
           <div id="logoWrapper" class="wrapper" data-content-field="site-title">
-            
+
               <h1 id="logoImage"><a href="/"><img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/59a73bda59cc68b2a82eeead/1505794515526/?format=1500w" alt="First Step Coding" /></a></h1>
-            
+
           </div><!--
           --><div class="mobile-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><div class="mobile-nav-toggle fixed-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><!--
           --><div id="headerNav"><div id="mainNavWrapper" class="nav-wrapper" data-content-field="navigation-mainNav">
   <nav id="mainNavigation" data-content-field="navigation-mainNav">
-    
-      
-        
 
-        
+
+
+
+
         <div class="folder">
           <div class="folder-toggle" data-href="/courses/">Courses</div>
           <div class="subnav">
-          
 
-            
+
+
             <div class="collection">
               <a href="/bootcamp-prep/">
                 Bootcamp Prep
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/intro-to-coding/">
                 Intro to Coding
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/sql/">
                 Intro to SQL
               </a>
             </div>
-            
-            
-          
+
+
+
           </div>
         </div>
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/partners/">
               Partners
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/corporate-training-case-study/">
               Team Training
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/faq/">
               FAQ
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/blog/">
               Blog
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/apply/">
               Apply
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
+
+
+
+
+
   </nav>
 </div>
 <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
@@ -351,20 +351,20 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
         </div>
       </header>
 
-      
-        
-          
-          
-        
-      
 
 
-      
-      
-      
+
+
+
+
+
+
+
+
+
 
       <main id="page" role="main">
-        
+
         <!--
         --><!--
         --><div id="content" class="main-content" data-content-field="main-content" data-collection-id="5994a1be6a4963193d499bb9" >
@@ -378,7 +378,7 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
     <div class="slides-controls">
       <div class="slides" data-collection-full-url="/alumni/">
-        
+
 
           <!--SLIDE-->
 
@@ -386,34 +386,34 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
             <!--IMAGE-->
 
-            
-              
+
+
                 <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/59973dfcf43b554e3ecc740d/1503085003062/erica.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/59973dfcf43b554e3ecc740d/1503085003062/erica.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Erica Li"  data-load="false" />
-              
+
 
               <!--SLIDE META-->
 
               <div class="slide-meta" data-slide-id="59973dfcf43b554e3ecc740d">
-                
+
                 <p class="title">Erica Li</p>
-                
-                
+
+
                 <div class="description">
                   <p>"I had been contemplating a career change from business to software development for a while. Before committing to a full-time bootcamp, I wanted to make sure that I would enjoy coding as a full-time job. FSC's twice-weekly evening classes fit into my schedule and needs perfectly.</p><p>I had a blast in class! I loved that the majority of time was spent pair-programming. Coding is hard, so being able to work with another person helped my understanding of concepts through another person's eyes. Kurt, our instructor was also kind and incredibly patient.</p><p>Most importantly, I learned the fundamentals well enough to be able to apply to some top bootcamps. I got into my first choice and will be starting in the fall. I couldn't have done it without FSC!"</p><p><strong>Accepted at Flatiron School</strong></p>
                 </div>
-                
+
 
 
               </div>
-            
+
 
             <!--VIDEO-->
 
-            
+
 
           </div>
 
-        
+
 
           <!--SLIDE-->
 
@@ -421,34 +421,34 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
             <!--IMAGE-->
 
-            
-              
+
+
                 <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a1cde45a7c18f385a3dc/1502914344109/james.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a1cde45a7c18f385a3dc/1502914344109/james.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="James O'Reilly"  data-load="false" />
-              
+
 
               <!--SLIDE META-->
 
               <div class="slide-meta" data-slide-id="5994a1cde45a7c18f385a3dc">
-                
+
                 <p class="title">James O'Reilly</p>
-                
-                
+
+
                 <div class="description">
                   <p>"I took the NYC class this past June, and it was a great introduction into JavaScript.</p><p>Kurt explained the fundamentals clearly, and was always available before and after class to provide extra help. The best part about this course was how it focused less on syntax and more on the problem solving approach needed to start tackling coding challenges. Before taking this class I was very new to coding. After completing the course I was accepted into 3 bootcamps. This course delivers what it promises and then some."</p><p><strong>Accepted at Fullstack Academy</strong></p>
                 </div>
-                
+
 
 
               </div>
-            
+
 
             <!--VIDEO-->
 
-            
+
 
           </div>
 
-        
+
 
           <!--SLIDE-->
 
@@ -456,34 +456,34 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
             <!--IMAGE-->
 
-            
-              
+
+
                 <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/59a593ad914e6b2e39ee7cfa/1504023578034/lavina-circle.jpg" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/59a593ad914e6b2e39ee7cfa/1504023578034/lavina-circle.jpg" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Lavina Lim"  data-load="false" />
-              
+
 
               <!--SLIDE META-->
 
               <div class="slide-meta" data-slide-id="59a593ad914e6b2e39ee7cfa">
-                
+
                 <p class="title">Lavina Lim</p>
-                
-                
+
+
                 <div class="description">
                   <p>Starting the class with absolutely no coding experience prior, I'm very happy with how much I learned during the Intro to JavaScript Course. Kurt was really great at explaining the fundamentals thoroughly and at a pace that everyone in the class understood. So much help was offered during and after classroom time. The class size is ideal as well - everyone got to know each other and it was easy to discuss the problems they had with their own code while sticking to schedule.</p><p>In my opinion, the best part of this course is the fact that it not only explains JavaScript fundamentals, but Kurt provided the resources and material to keep moving forward and learning more on your own, even if you don't plan on going to a bootcamp, etc. As somebody who plans on continuing my coding practices independently, this is a great asset.</p><p>I highly recommend First Step Coding to anybody who wants to start coding confidently. It was a fantastic, incredibly helpful course taught by great people!</p>
                 </div>
-                
+
 
 
               </div>
-            
+
 
             <!--VIDEO-->
 
-            
+
 
           </div>
 
-        
+
 
           <!--SLIDE-->
 
@@ -491,34 +491,34 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
             <!--IMAGE-->
 
-            
-              
+
+
                 <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a213e6f2e1a6fa0b6a91/1502914320741/jake.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a213e6f2e1a6fa0b6a91/1502914320741/jake.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Jake Holtz"  data-load="false" />
-              
+
 
               <!--SLIDE META-->
 
               <div class="slide-meta" data-slide-id="5994a213e6f2e1a6fa0b6a91">
-                
+
                 <p class="title">Jake Holtz</p>
-                
-                
+
+
                 <div class="description">
                   <p>"Designed for those with zero experience in computer programming— over the course of the 4 weeks FSC provides a clear, organized, and straightforward introduction on the basics.</p><p>FSC is unique as an introductory course in its immersive and networking-based class model. With FSC you dive in from day one — working both with peers and teachers while getting the chance to tour and network with people at several bootcamps."</p><p><strong>Accepted at Hack Reactor<br />(3% acceptance rate)</strong></p>
                 </div>
-                
+
 
 
               </div>
-            
+
 
             <!--VIDEO-->
 
-            
+
 
           </div>
 
-        
+
 
           <!--SLIDE-->
 
@@ -526,34 +526,34 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
             <!--IMAGE-->
 
-            
-              
+
+
                 <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a2de37c581d2297666b8/1502914357607/ibukun.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a2de37c581d2297666b8/1502914357607/ibukun.png" data-image-dimensions="200x200" data-image-focal-point="0.46774193548387094,0.5241935483870968" alt="Ibukun Olude"  data-load="false" />
-              
+
 
               <!--SLIDE META-->
 
               <div class="slide-meta" data-slide-id="5994a2de37c581d2297666b8">
-                
+
                 <p class="title">Ibukun Olude</p>
-                
-                
+
+
                 <div class="description">
                   <p>"Lucky to have discovered First Step Coding’s 4-week Bootcamp Prep. I immediately felt I was in a team environment. The course structure is organized and includes visits by guest speakers from various bootcamps. Andy and Michael complement each other well in teaching style. They are excited to introduce you to coding and are genuinely supportive of you taking this skillset as far as you want to go."</p><p><strong>Accepted at General Assembly</strong></p>
                 </div>
-                
+
 
 
               </div>
-            
+
 
             <!--VIDEO-->
 
-            
+
 
           </div>
 
-        
+
 
           <!--SLIDE-->
 
@@ -561,34 +561,34 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
             <!--IMAGE-->
 
-            
-              
+
+
                 <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a629e6f2e1a6fa0bb7a7/1502914416644/ralph.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a629e6f2e1a6fa0bb7a7/1502914416644/ralph.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Ralph Turlington"  data-load="false" />
-              
+
 
               <!--SLIDE META-->
 
               <div class="slide-meta" data-slide-id="5994a629e6f2e1a6fa0bb7a7">
-                
+
                 <p class="title">Ralph Turlington</p>
-                
-                
+
+
                 <div class="description">
                   <p>"I was interested in a career change, but I did not have any coding experience. Without giving up my day job, I participated in First Step Coding. The program brought me from a total novice to a confident, amateur developer. I’m now motivated to pursue additional training and a full-time career as a developer."</p><p><strong>Accepted at App Academy<br />(&lt;5% acceptance rate)</strong><br /><strong>Accepted at Galvanize Data Science</strong></p>
                 </div>
-                
+
 
 
               </div>
-            
+
 
             <!--VIDEO-->
 
-            
+
 
           </div>
 
-        
+
 
           <!--SLIDE-->
 
@@ -596,34 +596,34 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
             <!--IMAGE-->
 
-            
-              
+
+
                 <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994aa6e579fb3e937154f58/1503085180947/muhammad.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994aa6e579fb3e937154f58/1503085180947/muhammad.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Muhammad Khokar"  data-load="false" />
-              
+
 
               <!--SLIDE META-->
 
               <div class="slide-meta" data-slide-id="5994aa6e579fb3e937154f58">
-                
+
                 <p class="title">Muhammad Khokar</p>
-                
-                
+
+
                 <div class="description">
                   <p>“It was an amazing 1 month class. I came in knowing a little coding, but I feel that this class gave me the confidence and skills that I needed to start applying to bootcamps. With the help of this class I was able to get into both Learners Guild and Dev Bootcamp. The speakers and coding challenges were extremely valuable, specifically the MVC and API introductions. I feel that this class is an asset to anyone thinking of a career or bootcamp in coding."</p><p><strong>Accepted at Learners Guild<br />Accepted at Dev Bootcamp</strong></p>
                 </div>
-                
+
 
 
               </div>
-            
+
 
             <!--VIDEO-->
 
-            
+
 
           </div>
 
-        
+
       </div>
 
       <!--PREVIOUS/NEXT CONTROLS-->
@@ -632,61 +632,61 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
 
       <!--CIRCLES-->
       <div class="circles gallery-nav">
-        
+
           <span class="circle"></span>
-        
+
           <span class="circle"></span>
-        
+
           <span class="circle"></span>
-        
+
           <span class="circle"></span>
-        
+
           <span class="circle"></span>
-        
+
           <span class="circle"></span>
-        
+
           <span class="circle"></span>
-        
+
       </div>
     </div>
   </div>
 
   <!--DOTS-->
   <div class="dots gallery-nav">
-    
+
       <span class="dot"></span>
-    
+
       <span class="dot"></span>
-    
+
       <span class="dot"></span>
-    
+
       <span class="dot"></span>
-    
+
       <span class="dot"></span>
-    
+
       <span class="dot"></span>
-    
+
       <span class="dot"></span>
-    
+
   </div>
 
   <!--NUMBERS-->
   <div class="numbers gallery-nav">
-    
+
       <span class="number">1</span>
-    
+
       <span class="number">2</span>
-    
+
       <span class="number">3</span>
-    
+
       <span class="number">4</span>
-    
+
       <span class="number">5</span>
-    
+
       <span class="number">6</span>
-    
+
       <span class="number">7</span>
-    
+
   </div>
 
   <!--SIMPLE-->
@@ -699,41 +699,41 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
   <!--THUMBNAILS-->
 
   <div class="thumbnail-wrapper gallery-nav">
-    
+
       <div class="thumbnail">
         <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/59973dfcf43b554e3ecc740d/1503085003062/erica.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/59973dfcf43b554e3ecc740d/1503085003062/erica.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Erica Li"  data-load="false" />
       </div>
-    
+
       <div class="thumbnail">
         <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a1cde45a7c18f385a3dc/1502914344109/james.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a1cde45a7c18f385a3dc/1502914344109/james.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="James O'Reilly"  data-load="false" />
       </div>
-    
+
       <div class="thumbnail">
         <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/59a593ad914e6b2e39ee7cfa/1504023578034/lavina-circle.jpg" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/59a593ad914e6b2e39ee7cfa/1504023578034/lavina-circle.jpg" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Lavina Lim"  data-load="false" />
       </div>
-    
+
       <div class="thumbnail">
         <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a213e6f2e1a6fa0b6a91/1502914320741/jake.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a213e6f2e1a6fa0b6a91/1502914320741/jake.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Jake Holtz"  data-load="false" />
       </div>
-    
+
       <div class="thumbnail">
         <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a2de37c581d2297666b8/1502914357607/ibukun.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a2de37c581d2297666b8/1502914357607/ibukun.png" data-image-dimensions="200x200" data-image-focal-point="0.46774193548387094,0.5241935483870968" alt="Ibukun Olude"  data-load="false" />
       </div>
-    
+
       <div class="thumbnail">
         <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a629e6f2e1a6fa0bb7a7/1502914416644/ralph.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994a629e6f2e1a6fa0bb7a7/1502914416644/ralph.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Ralph Turlington"  data-load="false" />
       </div>
-    
+
       <div class="thumbnail">
         <img data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994aa6e579fb3e937154f58/1503085180947/muhammad.png" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/5994a1be6a4963193d499bb9/5994aa6e579fb3e937154f58/1503085180947/muhammad.png" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Muhammad Khokar"  data-load="false" />
       </div>
-    
+
   </div>
 
 </div>
         </div><!--
         -->
-        
+
       </main>
 
       <div id="preFooter">
@@ -781,25 +781,25 @@ Our 4 week bootcamp prep course meets twice per week in the evening." />
           <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Back to Top</a></div></nav></div>
           <div id="secondaryNavWrapper" class="nav-wrapper" data-content-field="navigation-secondaryNav">
   <nav id="secondaryNavigation" data-content-field="navigation-secondaryNav">
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
           <div class="collection" id="id57db46a7725e25ee853ad6b9">
             <a href="/privacy-policy/">
               <span>Privacy Policy</span>
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
+
+
+
+
+
   </nav>
 </div>
 
@@ -852,14 +852,14 @@ src="https://www.facebook.com/tr?id=1007718212639770&ev=PageView&noscript=1"
 <!-- End Google Analytics -->
 <!-- Common Google Analytics Event Tracking -->
 <script>
-document.addEventListener("DOMContentLoaded", function(event) { 
+document.addEventListener("DOMContentLoaded", function(event) {
   try {
     document.querySelector("input[value='Book Your Call']").addEventListener('click', function(evt){
      ga('send', 'event', 'lead', 'application');
   });
   } catch(err){ }
-  
-  try {  
+
+  try {
     document.querySelector("input[value='Get Syllabus']").addEventListener('click', function(evt){
       // GA track
       ga('send', 'event', 'lead', 'syllabus-downloaded');
@@ -872,7 +872,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 <!-- End Include JQuery -->
 <!-- Notification Bar Customization -->
-<script type="text/javascript" charset="utf-8" src="/s/notification_bar.js"></script>
+<script type="text/javascript" charset="utf-8" src="../s/notification_bar.js"></script>
 <!-- End Notification Bar Customization -->
 
 

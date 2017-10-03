@@ -2,9 +2,9 @@
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:article="http://ogp.me/ns/article" lang="en-US" itemscope itemtype="http://schema.org/Article"  class="touch-styles">
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+
     <!-- This is Squarespace. --><!-- andy-tiffany -->
 <base href="">
 <meta charset="utf-8" />
@@ -17,9 +17,9 @@
 <meta property="og:longitude" content="-74.00076130000002"/>
 <meta property="og:url" content="https://www.firststepcoding.com/blog/2017/7/25/alumni-qa-jake-holtz-on-his-journey-from-first-step-coding-to-hack-reactor"/>
 <meta property="og:type" content="article"/>
-<meta property="og:description" content="For First Step Coding alumnus Jake Holtz, his interest in programming began 
-in an unexpected place. Jake developed a love of languages and 
-communication as an undergrad at U.C. Santa Cruz, and he went on to 
+<meta property="og:description" content="For First Step Coding alumnus Jake Holtz, his interest in programming began
+in an unexpected place. Jake developed a love of languages and
+communication as an undergrad at U.C. Santa Cruz, and he went on to
 graduate with a B.A in Greek and Latin.
 
 Jake’s first job after college allowed him t"/>
@@ -28,9 +28,9 @@ Jake’s first job after college allowed him t"/>
 <meta property="og:image:height" content="300"/>
 <meta itemprop="name" content="Alumni Q&amp;A: Jake Holtz On His Journey From First Step Coding to Hack Reactor"/>
 <meta itemprop="url" content="https://www.firststepcoding.com/blog/2017/7/25/alumni-qa-jake-holtz-on-his-journey-from-first-step-coding-to-hack-reactor"/>
-<meta itemprop="description" content="For First Step Coding alumnus Jake Holtz, his interest in programming began 
-in an unexpected place. Jake developed a love of languages and 
-communication as an undergrad at U.C. Santa Cruz, and he went on to 
+<meta itemprop="description" content="For First Step Coding alumnus Jake Holtz, his interest in programming began
+in an unexpected place. Jake developed a love of languages and
+communication as an undergrad at U.C. Santa Cruz, and he went on to
 graduate with a B.A in Greek and Latin.
 
 Jake’s first job after college allowed him t"/>
@@ -41,9 +41,9 @@ Jake’s first job after college allowed him t"/>
 <meta name="twitter:image" content="http://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/59777bb4cd39c371b6b1bacc/1501002703434/?format=1000w"/>
 <meta name="twitter:url" content="https://www.firststepcoding.com/blog/2017/7/25/alumni-qa-jake-holtz-on-his-journey-from-first-step-coding-to-hack-reactor"/>
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="For First Step Coding alumnus Jake Holtz, his interest in programming began 
-in an unexpected place. Jake developed a love of languages and 
-communication as an undergrad at U.C. Santa Cruz, and he went on to 
+<meta name="twitter:description" content="For First Step Coding alumnus Jake Holtz, his interest in programming began
+in an unexpected place. Jake developed a love of languages and
+communication as an undergrad at U.C. Santa Cruz, and he went on to
 graduate with a B.A in Greek and Latin.
 
 Jake’s first job after college allowed him t"/>
@@ -69,142 +69,142 @@ Jake’s first job after college allowed him t"/>
     <div id="sidecarNav">
       <div id="mobileNavWrapper" class="nav-wrapper" data-content-field="navigation-mobileNav">
   <nav id="mobileNavigation">
-    
-      
-        
 
-        
+
+
+
+
         <div class="folder">
           <div class="folder-toggle" data-href="/courses/">Courses</div>
           <div class="subnav">
-          
 
-            
+
+
             <div class="collection">
               <a href="/bootcamp-prep/">
                 Bootcamp Prep
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/intro-to-coding/">
                 Intro to Coding
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/sql/">
                 Intro to SQL
               </a>
             </div>
-            
-            
-          
+
+
+
           </div>
         </div>
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/partners/">
               Partners
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/corporate-training-case-study/">
               Team Training
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/faq/">
               FAQ
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection active">
             <a href="/blog/">
               Blog
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/apply/">
               Apply
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
+
+
+
+
+
   </nav>
 </div>
 
@@ -218,149 +218,149 @@ Jake’s first job after college allowed him t"/>
       <header id="header" class="show-on-scroll" data-offset-el=".index-section" data-offset-behavior="bottom" role="banner">
         <div class="header-inner">
           <div id="logoWrapper" class="wrapper" data-content-field="site-title">
-            
+
               <h1 id="logoImage"><a href="/"><img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/59a73bda59cc68b2a82eeead/1505794515526/?format=1500w" alt="First Step Coding" /></a></h1>
-            
+
           </div><!--
           --><div class="mobile-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><div class="mobile-nav-toggle fixed-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><!--
           --><div id="headerNav"><div id="mainNavWrapper" class="nav-wrapper" data-content-field="navigation-mainNav">
   <nav id="mainNavigation" data-content-field="navigation-mainNav">
-    
-      
-        
 
-        
+
+
+
+
         <div class="folder">
           <div class="folder-toggle" data-href="/courses/">Courses</div>
           <div class="subnav">
-          
 
-            
+
+
             <div class="collection">
               <a href="/bootcamp-prep/">
                 Bootcamp Prep
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/intro-to-coding/">
                 Intro to Coding
               </a>
             </div>
-            
-            
-          
 
-            
+
+
+
+
             <div class="collection">
               <a href="/sql/">
                 Intro to SQL
               </a>
             </div>
-            
-            
-          
+
+
+
           </div>
         </div>
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/partners/">
               Partners
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/corporate-training-case-study/">
               Team Training
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/faq/">
               FAQ
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection active">
             <a href="/blog/">
               Blog
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
+
+
+
+
           <div class="collection">
             <a href="/apply/">
               Apply
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
+
+
+
+
+
   </nav>
 </div>
 <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
@@ -371,87 +371,87 @@ Jake’s first job after college allowed him t"/>
         </div>
       </header>
 
-      
-        
-          
-            
-              
-            
-          
-        
-      
 
 
-      
-      
-      
+
+
+
+
+
+
+
+
+
+
+
+
 
       <main id="page" role="main">
-        
+
         <!--
         --><!--
         --><div id="content" class="main-content" data-content-field="main-content" data-collection-id="5848304bbe65942448e3c212" data-edit-main-image="Banner">
          <div class="blog-item">
 
-  
+
   <article class="entry h-entry hentry author-mary-bergeron-switchup post-type-text clear" id="article-59777a63f14aa1a84a5bd21c" data-item-id="59777a63f14aa1a84a5bd21c">
 
     <header class="entry-header">
       <div class="meta-above-title">
-        
+
         <div class="entry-byline">
           <span class="entry-author"><a href="/blog/?author=5859965ad1758e6ea457b12e" class="p-author author entry-byline-link" rel="author">Mary Bergeron, SwitchUp</a></span>
         </div>
-        
+
         <div class="entry-dateline">
           <time class="dt-published published entry-date" datetime="2017-07-25" pubdate><a href="/blog/2017/7/25/alumni-qa-jake-holtz-on-his-journey-from-first-step-coding-to-hack-reactor" class="entry-dateline-link">July 25, 2017</a></time>
           <time class="dt-updated updated" datetime="2017-07-25"></time>
         </div>
-        
+
       </div>
       <h1 data-content-field="title" class="entry-title p-name">
-      
+
         <a href="/blog/2017/7/25/alumni-qa-jake-holtz-on-his-journey-from-first-step-coding-to-hack-reactor" class="u-url" rel="bookmark">Alumni Q&A: Jake Holtz On His Journey From First Step Coding to Hack Reactor</a>
-      
+
       </h1>
       <div class="meta-below-title no-categories">
-        
+
         <div class="entry-byline">
           <span class="entry-author"><a href="/blog/?author=5859965ad1758e6ea457b12e" class="p-author author entry-byline-link" rel="author">Mary Bergeron, SwitchUp</a></span>
         </div>
-        
+
         <div class="entry-dateline">
           <time class="dt-published published entry-date" datetime="2017-07-25" pubdate><a href="/blog/2017/7/25/alumni-qa-jake-holtz-on-his-journey-from-first-step-coding-to-hack-reactor" class="entry-dateline-link">July 25, 2017</a></time>
           <time class="dt-updated updated" datetime="2017-07-25"></time>
         </div>
-        
+
       </div>
     </header>
 
     <div class="entry-content e-content">
-      
+
         <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1501002611340" id="item-59777a63f14aa1a84a5bd21c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="92.33333333333333" data-block-type="5" id="block-yui_3_17_2_1_1501002316107_69829"><div class="sqs-block-content">
 
-  
 
-  	
+
+
       <div class="image-block-outer-wrapper layout-caption-below design-layout-inline">
-      
+
         <div class="intrinsic" style="max-width:300.0px;">
-          
+
             <div style="padding-bottom:92.33333587646484%;" class="image-block-wrapper   has-aspect-ratio" data-description="" >
               <noscript><img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/59777bb4cd39c371b6b1bacc/1501002703434/"  /></noscript><img class="thumb-image" data-src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/59777bb4cd39c371b6b1bacc/1501002703434/" data-image="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/t/59777bb4cd39c371b6b1bacc/1501002703434/" data-image-dimensions="300x300" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="59777bb4cd39c371b6b1bacc" data-type="image" />
             </div>
-          
 
-          
+
+
 
         </div>
-      
-      </div>
-    
 
-  
+      </div>
+
+
+
 
 
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5b03727ad9e575718383"><div class="sqs-block-content"><p>For <a href="https://firststepcoding.com">First Step Coding</a> alumnus Jake Holtz, his interest in programming began in an unexpected place. Jake developed a love of languages and communication as an undergrad at U.C. Santa Cruz, and he went on to graduate with a B.A in Greek and Latin.</p><p>Jake’s first job after college allowed him to dabble with programming, and he realized that software development was the perfect way to combine his interests in language, technology and innovation.</p><p>First Step Coding seemed like the perfect starting point for Jake because he could try out programming in a classroom environment, and build the skills necessary to gain acceptance at a top bootcamp.</p><p>In an interview with <a href="http://www.switchup.org/?utm_source=FSC%20GuestPost">SwitchUp</a>, Jake talks more about how First Step Coding helped facilitate his career change. Check out the interview below, and read more FSC student stories and reviews on <a href="https://www.switchup.org/bootcamps/first-step-coding?utm_source=FSC%20GuestPost">SwitchUp</a>.</p><p><strong>1.)&nbsp;&nbsp; </strong><strong>After earning a B.A. from the University of California Santa Cruz, you made the decision to attend a bootcamp. What made you decide to pursue a career in software development?&nbsp;</strong></p><p><em>After college, I worked as a junior analyst for a small retail company. Having a significant amount of autonomy in my position, I began to create spreadsheet “apps” that automated daily tasks that I needed to perform. I’ve always had an innovative mindset, and so this, combined with my work experience led to a natural progression into computer development.</em></p><p><strong>2.)&nbsp;&nbsp; </strong><strong>How did you hear about First Step Coding? What made you decide to attend FSC before a bootcamp?&nbsp;</strong></p><p><em>At the beginning of 2016, I began going to meetups at Dev Bootcamp to get an introductory glimpse into computer programming. FSC hosted one of the meetups I attended, and I ultimately chose the program because of its unique approach that no other introductory program offers. FSC integrates traditional teaching with networking and meeting people from all sides of the Bay Area tech community. This is why FSC was so much more than just a “pre-bootcamp program” and why I ended up attended it and enjoying it.</em><strong>&nbsp;</strong></p><p><strong>3.) What was it like to go from a coding bootcamp prep program to a selective bootcamp like Hack Reactor?&nbsp;</strong></p><p><em>I try to be very strategic about decisions I make. I loved FSC, but because of the learning curve, I wasn’t sure I wanted to pursue programming. I spent the next few months continuing to study and finally got to a point of certainty. My friend connected me with a mutual friend who worked at Hack Reactor. I applied, and I was accepted.</em></p><p><strong>4.) How did First Step Coding prepare you for life in a bootcamp?&nbsp;</strong></p><p><em>FSC’s two-pronged approach [of teaching and networking/pairing with others] was integral to my success at Hack Reactor. FSC introduced me to the collaborative, pair-based learning model used in both bootcamps and in real world software engineering. While I continued to study after FSC, retrospectively, I definitely could not have applied to Hack Reactor without the skills gained from FSC.</em><strong>&nbsp;</strong></p><p><strong>5.) For you, what were the pros and cons of attending a bootcamp prep program before a bootcamp?</strong></p><p><em>PROS: Learning, networking, and a great way to decide if software engineering is right for you,</em></p><p><em>CONS: Education is expensive!</em></p><p><strong>6.) What challenges did you overcome to get to where you are?&nbsp;</strong></p><p><em>Developing resilience. One of the reasons Hack Reactor has such an extraordinary reputation is because of the intensity of their program. They overwhelm you with an extravagant amount of information and you basically have to teach yourself (with their help, of course). This process siphons out those unsuitable for the industry and creates a programmer ready to learn large amounts of advanced material in a short amount of time.</em></p><p><strong>7.) What are your goals and plans for the next 5 years?</strong></p><p><em>Between attending college and working as a Junior Analyst, I lived in northern Israel for a year. I fell in love with life there. My goal in 5 years is to work as a Software Engineer in Tel Aviv. There’s a huge demand for tech workers there– the tech community there is even colloquially known as “Silicon Wadi.” Waze, Viber, Fiverr, and Wix were all founded and are based there, and you have huge R&amp;D centers for Google, Microsoft, Intel, HP, and IBM.</em><strong>&nbsp;</strong></p><p><strong>8.) What advice do you have for people who are interested in attending a prep program before abootcamp?&nbsp;</strong></p><p><em>Great question. Three things:&nbsp;</em></p><p><em>FIRST: Do as much prep as you can before a bootcamp. There's so much to learn. Also, be smart about what you learn. If you want to be a Web Developer, it would be unwise to learn C or C++ as a first language. </em></p><p><em>SECOND: Make sure that computer programming is for you. I studied for six months before I was sure I wanted to go to a bootcamp.</em><br /><br /><em>THIRD: Be selective about your bootcamp. Bootcamps are like any other business in the sense that there are good ones and bad ones. I personally wouldn’t go to a lower tier college nor would I go to a lower tier bootcamp. It’s an investment.</em></p><p>Jake Holtz is a San Francisco based full stack software engineer focused on test-driven development and full stack JavaScript technologies. Having attended UC Santa Cruz with a degree in Greek and Latin languages, Jake has a fascination with languages as a medium for communication and functionality.<br /><br /><strong>Linkedin:</strong> <a target="_blank" href="https://linkedin.com/in/jahholtz">linkedin.com/in/jahholtz</a><br /><strong>GitHub:</strong> <a target="_blank" href="https://github.com/jakeholtz">github.com/jakeholtz</a><br /><strong>AngelList:</strong> <a target="_blank" href="https://angel.co/jahholtz">https://angel.co/jahholtz</a></p><p><!--[if gte vml 1]><v:shapetype
@@ -480,14 +480,14 @@ Jake’s first job after college allowed him t"/>
  <v:imagedata src="file://localhost/private/var/folders/fq/rfsq3kc50_n0qvz9f10_46w80000gp/T/TemporaryItems/msoclip/0/clip_image001.jpg"
 o:title="IMG_4685.jpg"/>
 </v:shape><![endif]--></p></div></div></div></div></div>
-      
+
     </div>
 
     <footer class="entry-footer clear">
-      
-      
+
+
       <div class="entry-actions">
-        
+
   <span class="sqs-simple-like" data-item-id="59777a63f14aa1a84a5bd21c" data-like-count="2">
     <span class="like-icon"></span>
     <span class="like-count"></span>
@@ -497,30 +497,30 @@ o:title="IMG_4685.jpg"/>
       </div>
     </footer>
 
-    
+
 
   </article>
 
   <div id="comments-59777a63f14aa1a84a5bd21c" class="p-comment">
-    
+
   </div>
 
-  
 
-  
+
+
   <nav class="pagination clear">
     <div class="newer"><span class="prev-label">Newer Post</span><a href="/blog/dear-bootcamps-raise-your-admissions-bars-or-get-out-of-the-way" rel="prev"><span>Dear Bootcamps: Raise Your Admissions Bars or Get Out of the Way</span></a></div><!-- comment the linebreak between these two elements because science
   --><div class="older"><span class="next-label">Older Post</span><a href="/blog/prep-for-your-coding-interview" rel="next"><span>Before You Code, Remember to PREP for Your Bootcamp Coding Interview</span></a></div>
   </nav>
-  
+
 
 </div>
         </div><!--
         --><aside id="rightSidebar" role="complementary">
           <div class="sqs-layout sqs-grid-12 columns-12 open-block-field empty" data-layout-label="Blog Sidebar Content" data-type="block-field" id="blogBlocks-5848304bbe65942448e3c212"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
         </aside>
-        
-        
+
+
       </main>
 
       <div id="preFooter">
@@ -568,25 +568,25 @@ o:title="IMG_4685.jpg"/>
           <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Back to Top</a></div></nav></div>
           <div id="secondaryNavWrapper" class="nav-wrapper" data-content-field="navigation-secondaryNav">
   <nav id="secondaryNavigation" data-content-field="navigation-secondaryNav">
-    
-      
-        
 
-        
 
-          
+
+
+
+
+
           <div class="collection" id="id57db46a7725e25ee853ad6b9">
             <a href="/privacy-policy/">
               <span>Privacy Policy</span>
             </a>
           </div>
-          
 
-        
-      
-      
 
-    
+
+
+
+
+
   </nav>
 </div>
 
@@ -639,13 +639,13 @@ src="https://www.facebook.com/tr?id=1007718212639770&ev=PageView&noscript=1"
 <!-- End Google Analytics -->
 <!-- Common Google Analytics Event Tracking -->
 <script>
-document.addEventListener("DOMContentLoaded", function(event) { 
+document.addEventListener("DOMContentLoaded", function(event) {
   try {
     document.querySelector("input[value='Book Your Call']").addEventListener('click', function(evt){
      ga('send', 'event', 'lead', 'application');
   });
   } catch(err){ }
-  
+
   try {  
     document.querySelector("input[value='Get Syllabus']").addEventListener('click', function(evt){
       // GA track
@@ -659,7 +659,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 <!-- End Include JQuery -->
 <!-- Notification Bar Customization -->
-<script type="text/javascript" charset="utf-8" src="/s/notification_bar.js"></script>
+<script type="text/javascript" charset="utf-8" src="../../../../s/notification_bar.js"></script>
 <!-- End Notification Bar Customization -->
 
 
