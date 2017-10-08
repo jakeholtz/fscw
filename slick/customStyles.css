@@ -8,8 +8,9 @@ html.regular, body.regular {
 }
 
 .slider {
-    width: 50%;
+    width: 100%;
     margin: 100px auto;
+    margin-top: 30px;
 }
 
 .slick-slide {
@@ -28,13 +29,9 @@ html.regular, body.regular {
 
 .slick-slide {
   transition: all ease-in-out .3s;
-  opacity: .2;
+  /*opacity: .2;*/
 }
 
-.slick-active {
+/*.slick-active {
   opacity: .5;
-}
-
-.slick-current {
-  opacity: 1;
-}
+}*/
