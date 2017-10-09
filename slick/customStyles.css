@@ -32,6 +32,13 @@ html.regular, body.regular {
   /*opacity: .2;*/
 }
 
+.slick-summary-title {
+  margin: 0px;
+  text-align: center;
+  /*opacity: .2;*/
+}
+
+
 /*.slick-active {
   opacity: .5;
 }*/
