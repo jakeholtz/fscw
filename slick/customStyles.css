@@ -15,30 +15,39 @@ html.regular, body.regular {
 
 .slick-slide {
   margin: 0px 20px;
+  outline: none;
+  transition: all ease-in-out .3s;
 }
 
 .slick-slide img {
   width: 100%;
 }
 
+/*MOBILE SLIDER*/
+
 .slick-prev:before,
 .slick-next:before {
   color: black;
+  font-size: 20px;
 }
 
+/*DESKTOP SLIDER*/
 
-.slick-slide {
-  transition: all ease-in-out .3s;
-  /*opacity: .2;*/
+@media screen and (min-width: 480px) {
+  .slick-prev:before,
+  .slick-next:before {
+    font-size: 30px;
+    position: relative;
+  }
+  .slick-prev:before {
+    right: 20px;
+  }
+  .slick-next:before {
+    left: 20px;
+  }
 }
 
 .slick-summary-title {
   margin: 0px;
   text-align: center;
-  /*opacity: .2;*/
 }
-
-
-/*.slick-active {
-  opacity: .5;
-}*/

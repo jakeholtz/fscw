@@ -14,12 +14,6 @@
 <link rel="stylesheet" type="text/css" href="./slick/slick.css">
 <link rel="stylesheet" type="text/css" href="./slick/slick-theme.css">
 <link rel="stylesheet" type="text/css" href="./slick/customStyles.css">
-<style type="text/css">
-  .slick-prev:before,
-  .slick-next:before {
-    color: black;
-  }
-</style>
 <meta property="og:site_name" content="First Step Coding"/>
 <meta property="og:title" content="About"/>
 <meta property="og:url" content="https://www.firststepcoding.com/"/>
@@ -2120,7 +2114,7 @@ return false;
         <p class="slick-summary-title">Erica Li</p>
       </div>
       <div>
-        <p class="slick-summary-title">Testimonial</p>
+        <p class="slick-summary-title"><div class="summary-excerpt"><p>"I had been contemplating a career change from business to software development for a while. Before committing to a full-time bootcamp, I wanted to make sure that I would enjoy coding as a full-time job. FSC's twice-weekly evening classes fit into my schedule and needs perfectly.</p><p>I had a blast in class! I loved that the majority of time was spent pair-programming. Coding is hard, so being able to work with another person helped my understanding of concepts through another person's eyes. Kurt, our instructor was also kind and incredibly patient.</p><p>Most importantly, I learned the fundamentals well enough to be able to apply to some top bootcamps. I got into my first choice and will be starting in the fall. I couldn't have done it without FSC!"</p><p><strong>Accepted at Flatiron School</strong></p></div></p>
       </div>
     </div>
     <div>
@@ -2130,7 +2124,7 @@ return false;
         <p class="slick-summary-title">James O'Reilly</p>
       </div>
       <div>
-        <p class="slick-summary-title">Testimonial</p>
+        <p class="slick-summary-title"><div class="summary-excerpt"><p>"I took the NYC class this past June, and it was a great introduction into JavaScript.</p><p>Kurt explained the fundamentals clearly, and was always available before and after class to provide extra help. The best part about this course was how it focused less on syntax and more on the problem solving approach needed to start tackling coding challenges. Before taking this class I was very new to coding. After completing the course I was accepted into 3 bootcamps. This course delivers what it promises and then some."</p><p><strong>Accepted at Fullstack Academy</strong></p></div></p>
       </div>
     </div>
     <div>
@@ -2140,7 +2134,7 @@ return false;
         <p class="slick-summary-title">Lavina Lim</p>
       </div>
       <div>
-        <p class="slick-summary-title">Testimonial</p>
+        <p class="slick-summary-title"><div class="summary-excerpt"><p>Starting the class with absolutely no coding experience prior, I'm very happy with how much I learned during the Intro to JavaScript Course. Kurt was really great at explaining the fundamentals thoroughly and at a pace that everyone in the class understood. So much help was offered during and after classroom time. The class size is ideal as well - everyone got to know each other and it was easy to discuss the problems they had with their own code while sticking to schedule.</p><p>In my opinion, the best part of this course is the fact that it not only explains JavaScript fundamentals, but Kurt provided the resources and material to keep moving forward and learning more on your own, even if you don't plan on going to a bootcamp, etc. As somebody who plans on continuing my coding practices independently, this is a great asset.</p><p>I highly recommend First Step Coding to anybody who wants to start coding confidently. It was a fantastic, incredibly helpful course taught by great people!</p></div></p>
       </div>
     </div>
     <div>
@@ -2150,7 +2144,7 @@ return false;
         <p class="slick-summary-title">Jake Holtz</p>
       </div>
       <div>
-        <p class="slick-summary-title">Testimonial</p>
+        <p class="slick-summary-title"><div class="summary-excerpt"><p>"Designed for those with zero experience in computer programming— over the course of the 4 weeks FSC provides a clear, organized, and straightforward introduction on the basics.</p><p>FSC is unique as an introductory course in its immersive and networking-based class model. With FSC you dive in from day one — working both with peers and teachers while getting the chance to tour and network with people at several bootcamps."</p><p><strong>Accepted at Hack Reactor<br />(3% acceptance rate)</strong></p></div></p>
       </div>
     </div>
     <div>
@@ -2160,7 +2154,7 @@ return false;
         <p class="slick-summary-title">Ibukun Olude</p>
       </div>
       <div>
-        <p class="slick-summary-title">Testimonial</p>
+        <p class="slick-summary-title"><div class="summary-excerpt"><p>"Lucky to have discovered First Step Coding’s 4-week Bootcamp Prep. I immediately felt I was in a team environment. The course structure is organized and includes visits by guest speakers from various bootcamps. Andy and Michael complement each other well in teaching style. They are excited to introduce you to coding and are genuinely supportive of you taking this skillset as far as you want to go."</p><p><strong>Accepted at General Assembly</strong></p></div></p>
       </div>
     </div>
     <div>
@@ -2170,7 +2164,7 @@ return false;
         <p class="slick-summary-title">Ralph Turlington</p>
       </div>
       <div>
-        <p class="slick-summary-title">Testimonial</p>
+        <p class="slick-summary-title"><div class="summary-excerpt"><p>"I was interested in a career change, but I did not have any coding experience. Without giving up my day job, I participated in First Step Coding. The program brought me from a total novice to a confident, amateur developer. I’m now motivated to pursue additional training and a full-time career as a developer."</p><p><strong>Accepted at App Academy<br />(&lt;5% acceptance rate)</strong><br /><strong>Accepted at Galvanize Data Science</strong></p></div></p>
       </div>
     </div>
   </section>
@@ -3949,12 +3943,24 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 <script type="text/javascript">
   $(document).ready(function() {
-    $(".regular").slick({
-      dots: true,
-      infinite: true,
-      slidesToShow: 3,
-      slidesToScroll: 3
-    });
+    function detectMob() {
+      return window.innerWidth <= 800 && window.innerHeight <= 600 ? true : false;
+    };
+    if (!detectMob()) {
+      $(".regular").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 3
+      });
+    } else {
+      $(".regular").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 2,
+        slidesToScroll: 2
+      });
+    }
   });
 </script>
 <!-- End Include JQuery -->
