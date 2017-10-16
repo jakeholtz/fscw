@@ -19,10 +19,6 @@ html.regular, body.regular {
   transition: all ease-in-out .3s;
 }
 
-.slick-slide img {
-  width: 100%;
-}
-
 /*MOBILE SLIDER*/
 
 .slick-prev:before,
@@ -51,9 +47,15 @@ html.regular, body.regular {
   line-height: 1em;
 }
 
+@media screen and (max-width: 599px) {
+  .slick-slide img {
+      width: 100%;
+  }
+}
+
 /*DESKTOP SLIDER*/
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 600px) {
   .slick-prev:before,
   .slick-next:before {
     font-size: 30px;
@@ -79,5 +81,9 @@ html.regular, body.regular {
   .slick-summary-title {
     font-size: 25px;
     letter-spacing: 1px;
+  }
+  .slick-slide img {
+      display: block;
+      margin: 0 auto;
   }
 }
