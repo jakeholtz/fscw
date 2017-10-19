@@ -8,7 +8,7 @@ html.regular, body.regular {
 }
 
 .slider {
-    width: 100%;
+    width: 90%;
     margin: 100px auto;
     margin-top: 0px;
 }
@@ -36,7 +36,7 @@ html.regular, body.regular {
   text-align: center;
 }
 .slick-prev, .slick-next {
-    top: 10%;
+    top: 20%;
 }
 
 .slick-summary-title {
@@ -46,11 +46,18 @@ html.regular, body.regular {
   letter-spacing: 0px;
   line-height: 1em;
 }
+.slick-slide img {
+  width: 100%;
+  max-width: 200px;      
+  margin: auto;
+}
 
 @media screen and (max-width: 599px) {
-  .slick-slide img {
-      width: 100%;
-  }
+
+  /*.slick-slide img {
+    display: block;
+    margin: 0 auto;
+  }*/
 }
 
 /*DESKTOP SLIDER*/
@@ -82,8 +89,8 @@ html.regular, body.regular {
     font-size: 25px;
     letter-spacing: 1px;
   }
-  .slick-slide img {
-      display: block;
+  /*.slick-slide img {
+      /*display: block;
       margin: 0 auto;
-  }
+  }*/
 }
