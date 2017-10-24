@@ -556,6 +556,40 @@ window.ChatraSetup = {
                   <h2 class="text-align-center">In PartnERSHIP WITH</h2>
                 </div>
               </div>
+              <section class="partners slider">
+                <div>
+                  <img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59973f517131a5ba56716833/59cc14d9197aea6d683b1c42/1506546906203/rithm-school-logo-boxed.png">
+                </div>
+                <div>
+                  <img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59973f517131a5ba56716833/59cc15318dd041a772842e90/1507588979820/flatiron-logo-boxed.png">
+                </div>
+                <div>
+                  <img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59973f517131a5ba56716833/59cc1458f9a61ea64311f4d3/1507588979803/app-academy-logo-boxed.png">
+                </div>
+                <div>
+                  <img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59973f517131a5ba56716833/59dbfc2564b05fea9d3d1ceb/1507589158496/coding-temple-boxed.png">
+                </div>
+                <div>
+                  <img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59973f517131a5ba56716833/59cc156eb7411c0b5994a5a2/1507588979847/launch-logo-boxed.png">
+                </div>
+                <div>
+                  <img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59973f517131a5ba56716833/59cc16246f4ca3abe4624660/1507588979791/redwood-logo-boxed.png">
+                </div>
+                <div>
+                  <img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59973f517131a5ba56716833/59cc166ef9a61ea6431213e8/1507589218756/startup-logo-boxed.png">
+                </div>
+                <div>
+                  <img src="https://static1.squarespace.com/static/57c22a12d1758e5dd82ca7e6/59973f517131a5ba56716833/59cc15bef09ca499d44f79e1/1507589218761/galvanize-logo-boxed.png">
+                </div>
+              </section>
+              <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_2_1503617059626_22185">
+                <div class="sqs-block-content">
+                  <p class="text-align-center">Verified FSC alumni can redeem up to $1,500 in tuition credits at 8
+                    <a target="_blank" href="https://www.firststepcoding.com/partners">partner schools</a>.</p>
+                </div>
+              </div>
+
+
               <div class="sqs-block summary-v2-block sqs-block-summary-v2" data-block-json="&#123;&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;collectionId&quot;:&quot;59973f517131a5ba56716833&quot;,&quot;design&quot;:&quot;carousel&quot;,&quot;headerText&quot;:&quot;&quot;,&quot;textSize&quot;:&quot;medium&quot;,&quot;pageSize&quot;:10,&quot;imageAspectRatio&quot;:&quot;Auto&quot;,&quot;columnWidth&quot;:227,&quot;gutter&quot;:60,&quot;listImageSize&quot;:30,&quot;listImageAlignment&quot;:&quot;left&quot;,&quot;slidesPerRow&quot;:4,&quot;textAlignment&quot;:&quot;center&quot;,&quot;showTitle&quot;:false,&quot;showThumbnail&quot;:true,&quot;showExcerpt&quot;:false,&quot;showReadMoreLink&quot;:false,&quot;showPrice&quot;:true,&quot;productQuickViewEnabled&quot;:false,&quot;showPastOrUpcomingEvents&quot;:&quot;upcoming&quot;,&quot;metadataPosition&quot;:&quot;below-content&quot;,&quot;primaryMetadata&quot;:&quot;none&quot;,&quot;secondaryMetadata&quot;:&quot;none&quot;,&quot;filter&quot;:&#123;&#125;,&quot;autoCrop&quot;:true,&quot;lightbox&quot;:true,&quot;mixedContent&quot;:true,&quot;blockId&quot;:&quot;eddb8628ae6fdd5f4cec&quot;&#125;"
                 data-block-type="55" id="block-yui_3_17_2_42_1503607682845_27808">
                 <div class="sqs-block-content">
@@ -3060,8 +3094,15 @@ window.ChatraSetup = {
           slidesToShow: 3,
           slidesToScroll: 3
         });
+        $(".partners").slick({
+          dots: true,
+          infinite: true,
+          slidesToShow: 4,
+          slidesToScroll: 4,
+          // appendDots: $(".partners")
+        });
       } else {
-        $(".regular").slick({
+        $(".regular, .partners").slick({
           dots: true,
           infinite: true,
           slidesToShow: 2,

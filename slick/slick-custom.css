@@ -1,14 +1,14 @@
-html.regular, body.regular {
+html.regular, body.regular, html.partners, body.partners, {
   margin: 0;
   padding: 0;
 }
 
-*.regular {
+*.regular, *.partners {
   box-sizing: border-box;
 }
 
 .slider {
-    width: 90%;
+    width: 95%;
     margin: 100px auto;
     margin-top: 0px;
 }
@@ -48,7 +48,7 @@ html.regular, body.regular {
 }
 .slick-slide img {
   width: 100%;
-  max-width: 200px;      
+  max-width: 200px;
   margin: auto;
 }
 
