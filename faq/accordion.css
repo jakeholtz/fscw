@@ -4,17 +4,18 @@
 
 .accordion {
   margin: auto;
-  width: 90%;
   max-width: 1020px;
   box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
   line-height: 1.6em;
 }
 
 a.toggle {
   text-decoration: none;
   color: inherit;
+  outline: none;
+  margin-right: 35px;
+  font-weight: 400;
 }
 
 /*accordion arrow styles start*/
@@ -25,6 +26,7 @@ a.toggle {
   display: inline-block;
   padding: 6px;
   float: right;
+  margin-right: -35px;
 }
 
 .toggle i.up {
@@ -39,13 +41,15 @@ a.toggle {
 
 /*accordion sliding styles*/
 
-.faq-contents {
-  color: black;
+.faq-contents, .faq-contents ul li span {
+  color: #4a4a4a;
+  list-style-type: circle;
+  font-weight: 200;
 }
 
-.faq-contents p {
-  font-size: 1.1em;
-  margin: 1em 0;
+.faq-contents ul li {
+  list-style-type: disc;
+  margin-left: 40px;
 }
 
 .faq-contents ul {
@@ -63,39 +67,49 @@ ul .inner {
   display: none;
 }
 
-ul .inner.show {
-  /*display: block;*/
-}
-
 ul li {
   margin: .5em 0;
 }
 
-.faq-contents ul li {
-  color: black;
-}
-
 ul li a.toggle {
-  width: 99%;
   display: block;
   color: #4a4a4a;
   padding: .75em;
   border-radius: 0.15em;
   transition: background .3s ease;
-  font-weight: 400;
-  font-style: normal;
   font-size: 20px;
   letter-spacing: 2px;
   line-height: 1.2em;
 }
 
 hr {
-    border: 0;
-    border-top: 1px solid #edeeee;
-    margin-left: 17px;
+  border: 0;
+  border-top: 1px solid #edeeee;
+  margin-left: 17px;
 }
 
 img {
   display: block;
   margin: auto;
+}
+
+@media only screen and (max-device-width: 600px) {
+  ul .inner {
+    width: 84.5%;
+    line-height: 1.4em;
+  }
+  ul li a.toggle {
+    line-height: 1.5em;
+  }
+  
+  ul .inner, ul li a.toggle {
+    font-size: 16px;
+  }
+  img {
+    display: none;
+    visibility: hidden;
+  }
+  .toggle i {
+    margin-right: -25px;
+  }
 }
